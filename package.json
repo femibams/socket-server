@@ -1,0 +1,16 @@
+{
+  "name": "bid-botswana-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "femibams",
+  "license": "ISC",
+  "dependencies": {
+    "@types/socket.io": "^2.1.8",
+    "restify": "^8.5.1",
+    "socket.io": "^2.3.0"
+  }
+}
